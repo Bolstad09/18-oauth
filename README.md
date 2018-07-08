@@ -1,9 +1,10 @@
 ![cf](http://i.imgur.com/7v5ASc8.png) OAuth
 ===
+[![Build Status](https://travis-ci.com/Bolstad09/18-oauth.svg?branch=master)](https://travis-ci.com/Bolstad09/18-oauth)
 
 ## Links
-  * Travis: 
-  * PR: 
+  * Travis: https://travis-ci.com/Bolstad09/18-oauth.svg?branch=master
+  * PR: https://github.com/Bolstad09/18-oauth/pull/1
   
 ## Credit 
 * Used demo code to start
