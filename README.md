@@ -1,11 +1,12 @@
 ![cf](http://i.imgur.com/7v5ASc8.png) OAuth
 ===
 
-## Submission Instructions
-  * Follow the instructions in the "Lab Instructions" documentation in the reference folder of the class repository
+## Links
+  * Travis: 
+  * PR: 
   
-## Learning Objectives  
-* Students will learn to add Google OAuth to an express/mongo app
+## Credit 
+* Used demo code to start
 
 ## Requirements  
 
