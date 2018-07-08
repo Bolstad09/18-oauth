@@ -1,0 +1,40 @@
+{
+  "name": "18-oauth",
+  "version": "1.0.0",
+  "description": "![cf](http://i.imgur.com/7v5ASc8.png) OAuth ===",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test-watch": "jest --watchAll",
+    "test": "jest --forceExit",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bolstad09/18-oauth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bolstad09/18-oauth/issues"
+  },
+  "homepage": "https://github.com/Bolstad09/18-oauth#readme",
+  "dependencies": {
+    "babel-env": "^2.4.1",
+    "babel-eslint": "^8.2.5",
+    "babel-register": "^6.26.0",
+    "bcrypt": "^3.0.0",
+    "cors": "^2.8.4",
+    "dotenv": "^6.0.0",
+    "eslint": "^5.0.1",
+    "express": "^4.16.3",
+    "http-errors": "^1.6.3",
+    "jest": "^23.3.0",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.1",
+    "morgan": "^1.9.0",
+    "require-dir": "^1.0.0"
+  }
+}
